@@ -1,0 +1,12 @@
+beautifulsoup4
+chardet
+fastapi
+feedparser
+praw
+pydantic
+python-multipart
+regex
+requests
+SQLAlchemy
+uvicorn
+email-validator
